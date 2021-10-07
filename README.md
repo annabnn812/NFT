@@ -14,3 +14,8 @@ npx hardhat run scripts/sample-script.js
 npx hardhat run scripts/deploy.js --network rinkeby
 
  https://jsonkeeper.com/ // JSON Keeper
+ 
+ add file .alchemyapi
+ 
+ 
+ add file .secret
