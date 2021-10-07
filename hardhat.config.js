@@ -10,7 +10,7 @@ defaultNetwork: "rinkeby",
      
     },
     rinkeby: {
-      url: "https://eth-rinkeby.alchemyapi.io/v2/jmw-pmKH6oGoh-NljSEkdmuj4pnprapC",
+      url: "https://eth-rinkeby.alchemyapi.io/v2/.........",
       accounts: [privateKey],
       
     }
